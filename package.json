@@ -1,5 +1,5 @@
 {
-    "name": "@harekey/sendinblue-client",
+    "name": "@sharekey/sendinblue-client",
     "version": "3.3.2",
     "description": "NodeJS client for Sendinblue V3 api",
     "main": "dist/api.js",
