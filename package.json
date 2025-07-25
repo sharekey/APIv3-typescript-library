@@ -25,7 +25,7 @@
     "dependencies": {
         "@types/bluebird": "*",
         "@types/request": "*",
-        "axios": "^1.4.0",
+        "axios": "^1.10.0",
         "bluebird": "^3.5.0",
         "lodash": "^4.17.21"
     },
