@@ -1,6 +1,6 @@
 {
     "name": "@sharekey/sendinblue-client",
-    "version": "3.3.3",
+    "version": "3.3.4",
     "description": "NodeJS client for Sendinblue V3 api",
     "main": "dist/api.js",
     "types": "dist/api.d.ts",
@@ -25,7 +25,7 @@
     "dependencies": {
         "@types/bluebird": "*",
         "@types/request": "*",
-        "axios": "^1.11.0",
+        "axios": "^1.13.5",
         "bluebird": "^3.5.0",
         "lodash": "^4.17.21"
     },
