@@ -27,7 +27,7 @@
         "@types/request": "*",
         "axios": "^1.13.5",
         "bluebird": "^3.5.0",
-        "lodash": "^4.17.21"
+        "lodash": "^4.17.23"
     },
     "devDependencies": {
         "@types/bluebird": "*",
